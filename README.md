@@ -1,4 +1,4 @@
-# RoadRash (OpenGL / GLUT)
+# RoadRash (OpenGL / GLUT): Advanced game development final project
 
 > **Course/Assignment:** Advance Game Dev : Final Project
 > **Author:** Ritvik Mahapatra 

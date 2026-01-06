@@ -1,0 +1,9 @@
+# Documents
+*.pdf
+*.docx
+*.ppt
+*.pptx
+
+# OS Junk
+.DS_Store
+Thumb.db

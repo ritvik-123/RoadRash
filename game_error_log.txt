@@ -1,0 +1,16 @@
+[Mon May 05 16:54:57 2025
+] Level transition image not found: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug\images\Level 1.png
+Current Level: 2
+Base Directory: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug
+[Mon May 05 16:55:51 2025
+] Level transition image not found: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug\images\Level 1.png
+Current Level: 2
+Base Directory: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug
+[Mon May 05 16:57:32 2025
+] Level transition image not found: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug\images\Level 1.png
+Current Level: 2
+Base Directory: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug
+[Mon May 05 16:58:18 2025
+] Level transition image not found: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug\images\Level 1.png
+Current Level: 2
+Base Directory: C:\Users\CSM\Desktop\CSCI 291T\CSCI 291T\Project1\bin\Debug
